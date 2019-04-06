@@ -1,5 +1,6 @@
-discord.py
-
-youtube_dl
-
+discord
 asyncio
+
+
+
+
