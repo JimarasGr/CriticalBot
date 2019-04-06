@@ -1,1 +1,1 @@
-worker: pyhton criticalbot.py
+worker: python criticalbot.py
